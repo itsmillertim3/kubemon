@@ -32,13 +32,12 @@ spec:
   template:
     metadata:
       annotations:
-        dynatrace/instrument: "false"
         pipeline.build: 1.4.1.0365
         pipeline.project: sockshop
         pipeline.stage: prod-stable
         sidecar.istio.io/inject: "false"
         support.channel: '#support-sockshop-services'
-        support.contact: tony.stark@sockshop.com
+        support.contact: philippe.deblois@sockshop.com
       creationTimestamp: null
       labels:
         app: user
