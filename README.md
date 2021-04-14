@@ -1,4 +1,4 @@
-# 2021 HoT K8S for Operators Workshop 
+# 2021 K8S Workshop 
 
 This repository contains labs for the Hands-On Kubernetes Session. We will be using Dynatrace University and AWS (EKS + Bastion Host) for this hands-on.
 
