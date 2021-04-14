@@ -37,7 +37,7 @@ spec:
         pipeline.stage: prod-stable
         sidecar.istio.io/inject: "false"
         support.channel: '#support-sockshop-services'
-        support.contact: john.doe@sockshop.com
+        support.contact: matt.miller@sockshop.com
       creationTimestamp: null
       labels:
         app: orders
