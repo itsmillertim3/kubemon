@@ -1,6 +1,6 @@
 # 2021 K8S Workshop 
 
-This repository contains labs for the Hands-On Kubernetes Session. We will be using Dynatrace University and AWS (EKS + Bastion Host) for this hands-on.
+This repository contains labs for the Hands-On Kubernetes Session. We will be using Azure AKS and Cloudshell for this hands-on.
 
 ## Contents
 
